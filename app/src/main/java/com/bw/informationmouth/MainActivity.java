@@ -37,8 +37,12 @@ public class MainActivity extends BaseActivity {
         titleList.add("首页");
         titleList.add("热点");
         titleList.add("北京");
+        titleList.add("封英超");
+
+        //
 
         //A卷，三个页面都一样
+
         HomeFragment homeFragment = new HomeFragment();
         HomeFragment homeFragment1 = new HomeFragment();
         HomeFragment homeFragment2 = new HomeFragment();
